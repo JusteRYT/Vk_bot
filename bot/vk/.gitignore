@@ -1,0 +1,9 @@
+.idea/*
+build/*
+dist/*
+
+**/*.whl
+**/*.env
+**/*.spec
+
+bot.vk/dialogues.txt
